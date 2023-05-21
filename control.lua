@@ -7,9 +7,9 @@ require("defines")
 
 ---@type table<string, module>
 local modules = {}
-modules.better_commands = require("models/BetterCommands/control")
-modules.example_module = require("models/example-module")
-modules.data_consistency_example = require("models/data-consistency-example")
+modules.better_commands = require("modules.BetterCommands.control")
+modules.example_module = require("modules.example-module")
+modules.data_consistency_example = require("modules.data-consistency-example")
 -- modules.empty_module = require("models.empty-module")
 
 

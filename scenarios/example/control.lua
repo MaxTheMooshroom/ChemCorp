@@ -5,7 +5,7 @@ local event_handler = require("event_handler")
 ---@type table<string, module>
 local modules = {}
 modules.better_commands = require(MOD_PATH .. "/models/BetterCommands/control")
-modules.example_module = require("models/example-module")
+modules.example_module = require("modules.example-module")
 modules.stop_example_mod = require("models/stop-example-mod")
 
 

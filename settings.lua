@@ -1,7 +1,7 @@
 -- See https://wiki.factorio.com/Tutorial:Mod_settings#Reading_settings
 
 require("defines")
-require("models/BetterCommands/control"):create_settings() -- Adds switchable commands
+require("modules.BetterCommands.control"):create_settings() -- Adds switchable commands
 
 
 -- Just an example
