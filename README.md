@@ -17,12 +17,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="changelog.txt">Changelog</a>
-  ·
-  <a href="https://crowdin.com/project/factorio-mods-localization">Translations</a>
-</p>
-
 <h1></h1>
 
 <!-- Put your "fancy" image/video here -->
