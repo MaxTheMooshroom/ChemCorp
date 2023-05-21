@@ -1,12 +1,12 @@
 {
-	"name": "example-mod",
+	"name": "chem-corp",
+	"title": "ChemCorp",
 	"version": "0.5.2",
 	"factorio_version": "1.1",
-	"title": "Example mod",
-	"author": "Put your nickname",
-	"contact": "Put your contacts",
-	"homepage": "Put a link",
-	"description": "See locale/en ",
+	"author": "MaxTheMooshroom",
+	"contact": "https://github.com/MaxTheMooshroom/ChemCorp/issues",
+	// "homepage": "Put a link",
+	"description": "This Factorio mod provides a unique way for players to experiment with chemical reactions and create their own recipes. Spend chemical science packs to explore molecular structures and experiment with different combinations of elements to create new materials. Develop your chemical design skills and learn about real-world chemistry in a gamified way.",
 	"dependencies": [
 		"? zk-lib >= 0.10.0",
 		"(?) gvv"
