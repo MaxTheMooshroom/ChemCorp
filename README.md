@@ -35,13 +35,67 @@ This Factorio mod provides a unique way for players to experiment with chemical 
 </p>
 
 ### TODO:
-- [ ] Add chemical research menu, similar to the general research menu
-	- [ ] add blank menu
-	- [ ] add molecular structure UI mechanics
-		- [ ] 
-	- [ ] add chemical science pack cost
-	- [ ] Add hotkey for opening the menu
-- [ ] 
+- [ ] Analyze vanilla progression and chart recipe flow
+- [ ] Research possible real-world replacements for various in-game items:
+  - [X] sulphuric-acid
+    -  sulphuric-acid
+  - [X] plastic-bar
+    - polyethylene
+    - polypropylene
+    - polyvinyl chloride
+    - polystyrene
+    - polyethylene terephthalate
+    - polycarbonate
+    - acrylonitrile butadiene styrene
+    - polyamide
+    - polyurethane
+    - polymethyl methacrylate
+  - [X] explosives
+    - trinitrotoluene
+  - [X] cliff-explosives
+    - trinitrotoluene
+  - [X] uranium-235
+    - uranium-235
+  - [X] uranium-238
+    - uranium-238
+  - [X] light-oil
+    - NONE ; Real oil does not have a clean distinction between heavy and light ; replace with just "filtered oil"
+  - [X] heavy-oil
+    - NONE ; Real oil does not have a clean distinction between heavy and light ; replace with just "filtered oil"
+  - [ ] petroleum-gas
+    - ...
+  - [ ] lubricant
+    - ...
+  - [ ] solid-fuel
+    - ...
+  - [ ] rocket-fuel
+    - hydrazine
+    - ...
+  - [X] crude-oil
+    - vanilla crude oil doesn't have true impurities, they are hand-waved away with "processing". The mod will replace this with actual purification.
+    - crude oil
+  - [X] Stone
+    - Carbonate Rocks
+
+  - [ ] Introduce new primary resources from which to extract various secondary, pure resources:
+    - [ ] Carbonate Rocks
+      - Limestone
+      - Dolomite
+      - Marble
+      - Calcite
+    - [ ] Silicate Rocks
+      - Silicon
+      - Silica
+      - Aluminum
+      - Potassium
+    - [ ] Oil Sludge
+      - Sulfur
+      - Nitrogen
+      - Oxygen
+      - Nickel
+      - vanadium
+      - iron
+      - copper
 
 How It Works
 -----------------------
