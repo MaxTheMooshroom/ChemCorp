@@ -76,26 +76,25 @@ This Factorio mod provides a unique way for players to experiment with chemical 
     - crude oil
   - [X] Stone
     - Carbonate Rocks
-
-  - [ ] Introduce new primary resources from which to extract various secondary, pure resources:
-    - [ ] Carbonate Rocks
-      - Limestone
-      - Dolomite
-      - Marble
-      - Calcite
-    - [ ] Silicate Rocks
-      - Silicon
-      - Silica
-      - Aluminum
-      - Potassium
-    - [ ] Oil Sludge
-      - Sulfur
-      - Nitrogen
-      - Oxygen
-      - Nickel
-      - vanadium
-      - iron
-      - copper
+- [ ] Introduce new primary resources from which to extract various secondary, pure resources:
+  - [ ] Carbonate Rocks
+    - Limestone
+    - Dolomite
+    - Marble
+    - Calcite
+  - [ ] Silicate Rocks
+    - Silicon
+    - Silica
+    - Aluminum
+    - Potassium
+  - [ ] Oil Sludge
+    - Sulfur
+    - Nitrogen
+    - Oxygen
+    - Nickel
+    - vanadium
+    - iron
+    - copper
 
 How It Works
 -----------------------
